@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/naivgationjetpack/app/src/main/res/layout/activity_firstfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/naivgationjetpack/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/naivgationjetpack/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
         <entry key="..\:/naivgationjetpack/app/src/main/res/layout/navigation.xml" value="0.13240740740740742" />
-        <entry key="..\:/naivgationjetpack/app/src/main/res/layout/navigation_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/naivgationjetpack/app/src/main/res/layout/navigation_activity.xml" value="0.18" />
         <entry key="..\:/naivgationjetpack/app/src/main/res/layout/second_fragment.xml" value="0.20416666666666666" />
       </map>
     </option>
